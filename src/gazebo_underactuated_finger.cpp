@@ -117,7 +117,7 @@ namespace gazebo {
       gzthrow(error);
     }
     actuated_joint_ = joint;
-    actuator_angle_ = actuated_joint_->GetAngle(0u);
+    actuator_angle_ = actuated_joint_->Position(0u);
 
    ros::NodeHandle nh;
    for(unsigned int i=0 ; i<virtual_joint_names_.size(); ++i)
@@ -190,13 +190,13 @@ namespace gazebo {
 
       if(pids_.at(i))
       {
-        double pos = virtual_joints_.at(i)->GetAngle(0).Radian();
-        double error = new_angle.Radian() - pos;
+        double pos = virtual_joints_.at(i)->Position(0);
+        double error = new_angle - pos;
         const double effort = pids_.at(i)->computeCommand(error, ros::Duration(0.001));
         virtual_joints_.at(i)->SetForce(0, effort);
       }
       else
-      	virtual_joints_.at(i)->SetPosition(0u, new_angle;
+      	virtual_joints_.at(i)->SetPosition(0u, new_angle);
     }
   }
 

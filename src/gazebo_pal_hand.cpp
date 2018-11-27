@@ -155,22 +155,6 @@ namespace gazebo {
     double lower_limit    = 0.02;
     if( actuator_angle > lower_limit)
     {
-<<<<<<< 5b901ee5dec1f300979bbd68f5947f3505ce5b2f
-      math::Angle index_1_angle = ( actuator_angle/2.5 > joints[1]->GetUpperLimit(0u) ) ? joints[1]->GetUpperLimit(0u) : actuator_angle/2.5;
-      joints[1]->SetPosition(0u, index_1_angle.Radian());
-
-      math::Angle index_2_angle = ( actuator_angle/3.2 > joints[2]->GetUpperLimit(0u) ) ? joints[2]->GetUpperLimit(0u) : actuator_angle/3.2;
-      joints[2]->SetPosition(0u, index_2_angle.Radian());
-
-      math::Angle index_3_angle = ( actuator_angle/3.2 > joints[3]->GetUpperLimit(0u) ) ? joints[3]->GetUpperLimit(0u) : actuator_angle/3.2;
-      joints[3]->SetPosition(0u, index_3_angle.Radian());
-    }
-    else
-    {
-      joints[1]->SetPosition(0u, lower_limit.Radian());
-      joints[2]->SetPosition(0u, lower_limit.Radian());
-      joints[3]->SetPosition(0u, lower_limit.Radian());
-=======
       double index_1_angle = ( actuator_angle/2.5 > joints[1]->UpperLimit(0u) ) ? joints[1]->UpperLimit(0u) : actuator_angle/2.5;
       joints[1]->SetPosition(0u, index_1_angle);
 
@@ -185,7 +169,6 @@ namespace gazebo {
       joints[1]->SetPosition(0u, lower_limit);
       joints[2]->SetPosition(0u, lower_limit);
       joints[3]->SetPosition(0u, lower_limit);
->>>>>>> gazebo 8 / kinetic branch
     }
   }
 
