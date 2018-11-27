@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lruegeme/projects/pal-forks/pal_gazebo_plugins/cmake-build-debug/devel/setup.sh

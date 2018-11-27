@@ -1,0 +1,57 @@
+/home/lruegeme/apps/clion-2017.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lruegeme/projects/pal-forks/pal_gazebo_plugins
+-- Using CATKIN_DEVEL_PREFIX: /home/lruegeme/projects/pal-forks/pal_gazebo_plugins/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /vol/rcp/tiago-nightly;/opt/ros/kinetic
+-- This workspace overlays: /vol/rcp/tiago-nightly;/opt/ros/kinetic
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/lruegeme/projects/pal-forks/pal_gazebo_plugins/cmake-build-debug/test_results
+-- Found gtest: gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.14
+-- Using these message generators: gencpp;geneus;genjava;genlisp;gennodejs;genpy
+-- Checking for module 'bullet>=2.82'
+--   Found bullet, version 2.88
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   thread
+--   signals
+--   system
+--   filesystem
+--   program_options
+--   regex
+--   iostreams
+--   date_time
+--   chrono
+--   atomic
+-- Boost version: 1.58.0
+-- Looking for OGRE...
+-- Checking for module 'OGRE'
+--   Found OGRE, version 1.9.0
+-- Found Ogre Ghadamon (1.9.0)
+-- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+-- Looking for OGRE_Paging...
+-- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+-- Looking for OGRE_Terrain...
+-- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+-- Looking for OGRE_Property...
+-- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+-- Looking for OGRE_RTShaderSystem...
+-- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+-- Looking for OGRE_Volume...
+-- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+-- Looking for OGRE_Overlay...
+-- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+-- Looking for ignition-msgs - found
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   thread
+--   chrono
+--   system
+--   date_time
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lruegeme/projects/pal-forks/pal_gazebo_plugins/cmake-build-debug

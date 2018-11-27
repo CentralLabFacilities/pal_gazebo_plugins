@@ -170,14 +170,14 @@ void FTPlugin::UpdateChild()
     if ( ( now - this->lastUpdateTime) >= update_period)
     {
 
-        double rate = footContactSensor->GetUpdateRate();
+        double rate = footContactSensor->UpdateRate();
         //ROS_DEBUG("sensor update rate %f, dT elapsed %f [sec]", rate, ( now - this->lastUpdateTime).toSec() ); // TODO: Remove?
 
         this->lastUpdateTime = now;
 
         // Get all the contacts.
         msgs::Contacts contacts;
-        contacts = this->footContactSensor->GetContacts();
+        contacts = this->footContactSensor->Contacts();
 
         for (int i = 0; i < contacts.contact_size(); ++i)
         {

@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="tf_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_underactuated_finger" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="download_extra_data" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_java" />
+      <config projectName="pal_gazebo_plugins" targetName="trajectory_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="control_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="trajectory_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_harness" />
+      <config projectName="pal_gazebo_plugins" targetName="roscpp_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="trajectory_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="tests" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="run_tests" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_wifi_ap" />
+      <config projectName="pal_gazebo_plugins" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="control_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_ros_forcetorque" />
+      <config projectName="pal_gazebo_plugins" targetName="control_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="tf_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="clean_test_results" />
+      <config projectName="pal_gazebo_plugins" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="roscpp_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_world_odometry" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="trajectory_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="doxygen" />
+      <config projectName="pal_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="std_srvs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="control_toolbox_gencfg" />
+      <config projectName="pal_gazebo_plugins" targetName="pal_multirobot_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="control_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="pal_gazebo_plugins" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="control_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="pal_gazebo_plugins" targetName="std_msgs_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="pal_gazebo_plugins" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="pal_gazebo_plugins" targetName="tf_generate_messages_py" />
+      <config projectName="pal_gazebo_plugins" targetName="gazebo_pal_hand" />
+      <config projectName="pal_gazebo_plugins" targetName="trajectory_msgs_generate_messages_eus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="221daf4e-a65d-4ede-9570-541f4bc752e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp" afterPath="$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_world_odometry.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gazebo_world_odometry.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_pal_hand.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gazebo_pal_hand.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2873">
+              <caret line="169" column="46" lean-forward="false" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_harness.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gazebo_harness.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="71" lean-forward="false" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_underactuated_finger.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="119" column="47" lean-forward="false" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="47" />
+              <folding>
+                <element signature="e#1982#2002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_underactuated_finger.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/pal_gazebo_plugins/gazebo_underactuated_finger.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="79" column="12" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2363">
+              <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gazebo_ros_forcetorque.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gazebo_ros_forcetorque.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="175" column="35" lean-forward="false" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gazebo_ros_forcetorque.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/gazebo_pal_hand.cpp" />
+        <option value="$PROJECT_DIR$/src/gazebo_harness.cpp" />
+        <option value="$PROJECT_DIR$/include/pal_gazebo_plugins/gazebo_underactuated_finger.h" />
+        <option value="$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2034" />
+    <option name="y" value="119" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pal_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pal_gazebo_plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pal_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pal_gazebo_plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pal_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pal_gazebo_plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="pal_gazebo_plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pal_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="pal_gazebo_plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_gencfg" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="control_toolbox_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="control_toolbox_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_harness" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_harness" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_pal_hand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_pal_hand" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_ros_forcetorque" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_ros_forcetorque" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_underactuated_finger" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_underactuated_finger" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_wifi_ap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_wifi_ap" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gazebo_world_odometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="gazebo_world_odometry" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_java" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_java" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pal_multirobot_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="pal_multirobot_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="trajectory_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="trajectory_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="trajectory_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="trajectory_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pal_gazebo_plugins" TARGET_NAME="trajectory_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="95">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_eus" />
+      <item index="3" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item index="5" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_py" />
+      <item index="6" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item index="7" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item index="8" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item index="9" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item index="10" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item index="11" class="java.lang.String" itemvalue="Application.clean_test_results" />
+      <item index="12" class="java.lang.String" itemvalue="Application.control_msgs_generate_messages_cpp" />
+      <item index="13" class="java.lang.String" itemvalue="Application.control_msgs_generate_messages_eus" />
+      <item index="14" class="java.lang.String" itemvalue="Application.control_msgs_generate_messages_lisp" />
+      <item index="15" class="java.lang.String" itemvalue="Application.control_msgs_generate_messages_nodejs" />
+      <item index="16" class="java.lang.String" itemvalue="Application.control_msgs_generate_messages_py" />
+      <item index="17" class="java.lang.String" itemvalue="Application.control_toolbox_gencfg" />
+      <item index="18" class="java.lang.String" itemvalue="Application.control_toolbox_generate_messages_cpp" />
+      <item index="19" class="java.lang.String" itemvalue="Application.control_toolbox_generate_messages_eus" />
+      <item index="20" class="java.lang.String" itemvalue="Application.control_toolbox_generate_messages_lisp" />
+      <item index="21" class="java.lang.String" itemvalue="Application.control_toolbox_generate_messages_nodejs" />
+      <item index="22" class="java.lang.String" itemvalue="Application.control_toolbox_generate_messages_py" />
+      <item index="23" class="java.lang.String" itemvalue="Application.download_extra_data" />
+      <item index="24" class="java.lang.String" itemvalue="Application.doxygen" />
+      <item index="25" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_gencfg" />
+      <item index="26" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_cpp" />
+      <item index="27" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_eus" />
+      <item index="28" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_lisp" />
+      <item index="29" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_nodejs" />
+      <item index="30" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_py" />
+      <item index="31" class="java.lang.String" itemvalue="Application.gazebo_harness" />
+      <item index="32" class="java.lang.String" itemvalue="Application.gazebo_pal_hand" />
+      <item index="33" class="java.lang.String" itemvalue="Application.gazebo_ros_forcetorque" />
+      <item index="34" class="java.lang.String" itemvalue="Application.gazebo_underactuated_finger" />
+      <item index="35" class="java.lang.String" itemvalue="Application.gazebo_wifi_ap" />
+      <item index="36" class="java.lang.String" itemvalue="Application.gazebo_world_odometry" />
+      <item index="37" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item index="38" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item index="39" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item index="40" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item index="41" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item index="42" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item index="43" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item index="44" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item index="45" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item index="46" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item index="47" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_cpp" />
+      <item index="48" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_eus" />
+      <item index="49" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_java" />
+      <item index="50" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_lisp" />
+      <item index="51" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_nodejs" />
+      <item index="52" class="java.lang.String" itemvalue="Application.pal_multirobot_msgs_generate_messages_py" />
+      <item index="53" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item index="54" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_eus" />
+      <item index="55" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item index="56" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item index="57" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_py" />
+      <item index="58" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item index="59" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item index="60" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item index="61" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item index="62" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item index="63" class="java.lang.String" itemvalue="Application.run_tests" />
+      <item index="64" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item index="65" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item index="66" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item index="67" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item index="68" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item index="69" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item index="70" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item index="71" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item index="72" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item index="73" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_py" />
+      <item index="74" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_cpp" />
+      <item index="75" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_eus" />
+      <item index="76" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_lisp" />
+      <item index="77" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_nodejs" />
+      <item index="78" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_py" />
+      <item index="79" class="java.lang.String" itemvalue="Application.tests" />
+      <item index="80" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item index="81" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item index="82" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item index="83" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item index="84" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item index="85" class="java.lang.String" itemvalue="Application.tf_generate_messages_cpp" />
+      <item index="86" class="java.lang.String" itemvalue="Application.tf_generate_messages_eus" />
+      <item index="87" class="java.lang.String" itemvalue="Application.tf_generate_messages_lisp" />
+      <item index="88" class="java.lang.String" itemvalue="Application.tf_generate_messages_nodejs" />
+      <item index="89" class="java.lang.String" itemvalue="Application.tf_generate_messages_py" />
+      <item index="90" class="java.lang.String" itemvalue="Application.trajectory_msgs_generate_messages_cpp" />
+      <item index="91" class="java.lang.String" itemvalue="Application.trajectory_msgs_generate_messages_eus" />
+      <item index="92" class="java.lang.String" itemvalue="Application.trajectory_msgs_generate_messages_lisp" />
+      <item index="93" class="java.lang.String" itemvalue="Application.trajectory_msgs_generate_messages_nodejs" />
+      <item index="94" class="java.lang.String" itemvalue="Application.trajectory_msgs_generate_messages_py" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221daf4e-a65d-4ede-9570-541f4bc752e5" name="Default" comment="" />
+      <created>1543310378624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543310378624</updated>
+      <workItem from="1543310381381" duration="1399000" />
+      <workItem from="1543312927750" duration="50000" />
+      <workItem from="1543319932157" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1531000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2034" y="119" width="1920" height="1200" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22552083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22964318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/gazebo_pal_hand.cpp</url>
+          <line>153</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_world_odometry.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_pal_hand.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="46" lean-forward="false" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_harness.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="71" lean-forward="false" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="153" column="67" lean-forward="false" selection-start-line="153" selection-start-column="67" selection-end-line="153" selection-end-column="67" />
+          <folding>
+            <element signature="e#1982#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/pal_gazebo_plugins/gazebo_underactuated_finger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="12" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_ros_forcetorque.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" column="35" lean-forward="false" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_world_odometry.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_pal_hand.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="46" lean-forward="false" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_harness.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="71" lean-forward="false" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/pal_gazebo_plugins/gazebo_underactuated_finger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="12" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_ros_forcetorque.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" column="35" lean-forward="false" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="153" column="67" lean-forward="false" selection-start-line="153" selection-start-column="67" selection-end-line="153" selection-end-column="67" />
+          <folding>
+            <element signature="e#1982#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_ros_forcetorque.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" column="35" lean-forward="false" selection-start-line="175" selection-start-column="35" selection-end-line="175" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_world_odometry.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_pal_hand.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="46" lean-forward="false" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_harness.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="71" lean-forward="false" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/pal_gazebo_plugins/gazebo_underactuated_finger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="12" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gazebo_underactuated_finger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="119" column="47" lean-forward="false" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="47" />
+          <folding>
+            <element signature="e#1982#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

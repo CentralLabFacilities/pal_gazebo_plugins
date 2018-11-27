@@ -171,22 +171,22 @@ namespace gazebo {
   // Update the controller
   void GazeboPalHey5::UpdateChild() {
 
-    math::Angle new_actuator_angle = actuated_joint_->GetAngle(0u);
+    double new_actuator_angle = actuated_joint_->Position(0u);
 
     // Filter for noisy measure of actuated angle
-    double ang_err_rad = (actuator_angle_-new_actuator_angle).Radian();
+    double ang_err_rad = actuator_angle_ - new_actuator_angle;
     double eps_angle_rad = 0.02;
     if( fabs( ang_err_rad ) > eps_angle_rad)
       actuator_angle_ = new_actuator_angle;
 
     for(unsigned int i=0; i< virtual_joints_.size(); ++i)
     {
-      math::Angle new_angle  = actuator_angle_/scale_factors_.at(i);
+      double new_angle  = actuator_angle_/scale_factors_.at(i);
 
-      if(new_angle >  virtual_joints_.at(i)->GetUpperLimit(0u))
-        new_angle = virtual_joints_.at(i)->GetUpperLimit(0u);
-      if(new_angle < virtual_joints_.at(i)->GetLowerLimit(0u))
-        new_angle = virtual_joints_.at(i)->GetLowerLimit(0u);
+      if(new_angle >  virtual_joints_.at(i)->UpperLimit(0u))
+        new_angle = virtual_joints_.at(i)->UpperLimit(0u);
+      if(new_angle < virtual_joints_.at(i)->UpperLimit(0u))
+        new_angle = virtual_joints_.at(i)->UpperLimit(0u);
 
       if(pids_.at(i))
       {
@@ -196,7 +196,7 @@ namespace gazebo {
         virtual_joints_.at(i)->SetForce(0, effort);
       }
       else
-      	virtual_joints_.at(i)->SetPosition(0u, new_angle.Radian());
+      	virtual_joints_.at(i)->SetPosition(0u, new_angle;
     }
   }
 
